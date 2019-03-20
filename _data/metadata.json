@@ -1,0 +1,16 @@
+{
+  "title": "OSRS Test Blog",
+  "url": "https://myurl.com/",
+  "description": "Unpacking life in Gielinor.",
+  "feed": {
+    "subtitle": "Site feed.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "url": "https://myurl.com/feed/feed.xml",
+    "id": "https://myurl.com/"
+  },
+  "author": {
+    "name": "Kenneth Johnson",
+    "email": "kennyaj123@gmail.com"
+  }
+}

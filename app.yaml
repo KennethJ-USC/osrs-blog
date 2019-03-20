@@ -1,0 +1,19 @@
+runtime: nodejs10
+
+
+handlers:
+- url: /
+  static_files: www/index.html
+  upload: www/index.html
+
+- url: /css/index.css
+  static_files: www/css/index.css
+  upload: www/css/index.css
+
+- url: /css/prism-base16-monokai.dark.css
+  static_files: www/css/prism-base16-monokai.dark.css
+  upload: www/css/prism-base16-monokai.dark.css
+
+- url: /(.*)
+  static_files: www/\1index.html
+  upload: www/(.*)index.html
