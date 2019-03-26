@@ -17,11 +17,6 @@
   </url>
   
   <url>
-    <loc>https://myurl.com/posts/fourthpost/</loc>
-    <lastmod>2018-09-30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://myurl.com/about/</loc>
     <lastmod>2019-03-18</lastmod>
   </url>
@@ -32,17 +27,82 @@
   </url>
   
   <url>
-    <loc>https://myurl.com/</loc>
-    <lastmod>2019-03-18</lastmod>
-  </url>
-  
-  <url>
     <loc>https://myurl.com/tags/</loc>
     <lastmod>2019-03-18</lastmod>
   </url>
   
   <url>
-    <loc>https://myurl.com/tags/another-tag/</loc>
+    <loc>https://myurl.com/tags/number-2/</loc>
     <lastmod>2019-03-18</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/_site/404/</loc>
+    <lastmod>2019-03-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/_site/about/</loc>
+    <lastmod>2019-03-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/_site/</loc>
+    <lastmod>2019-03-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/_site/posts/firstpost/</loc>
+    <lastmod>2019-03-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/_site/posts/fourthpost/</loc>
+    <lastmod>2019-03-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/_site/posts/</loc>
+    <lastmod>2019-03-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/_site/posts/secondpost/</loc>
+    <lastmod>2019-03-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/_site/posts/thirdpost/</loc>
+    <lastmod>2019-03-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/_site/tags/</loc>
+    <lastmod>2019-03-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/_site/tags/another-tag/</loc>
+    <lastmod>2019-03-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/_site/tags/number-2/</loc>
+    <lastmod>2019-03-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/_site/tags/second-tag/</loc>
+    <lastmod>2019-03-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/_site/tags/tagList/</loc>
+    <lastmod>2019-03-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/</loc>
+    <lastmod>2019-03-25</lastmod>
   </url>
 </urlset>

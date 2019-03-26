@@ -8,7 +8,12 @@
       {% set tagUrl %}/tags/{{ tag }}/{% endset %}
       <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
       {%- endif -%}
-    {% endfor %}
+    {% endfor %} 
+    <br>
+    <div class="img-summary">
+      <img class="img-valign" src=/img/{{ post.data.image }}>
+      <span class="summary-text"> {{ post.data.description }} </span>
+    </div>
   </li>
 {% endfor %}
 </ol>

@@ -141,6 +141,13 @@ pre {
   list-style: none;
   padding: 0;
 }
+
+.postlist li {
+  margin-top: 90px;
+}
+.postlist li:first-child {
+  margin-top: 0px;
+}
 .postlist-item {
   counter-increment: start-from -1;
 }
@@ -151,6 +158,28 @@ pre {
   line-height: 100%;
   text-align: right;
 }
+
+.postlist-item img {
+  width: 120px;
+  height: auto;
+  padding-right: 16px;
+}
+
+.img-summary {
+  padding-left: 30px;
+}
+
+.summary-text {
+  color: --var(darkgray);
+  font-size: 14px;
+  margin-top: 10px;
+}
+.img-valign {
+  vertical-align: middle;
+  float: left;
+}
+
+
 .postlist-date,
 .postlist-item:before {
   font-size: 0.8125em; /* 13px /16 */

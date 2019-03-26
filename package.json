@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-base-blog",
+  "name": "The-Spicy-Stew",
   "version": "5.0.0",
-  "description": "A starter repository for a blog web site using the Eleventy static site generator.",
+  "description": "A blog web site using the Eleventy static site generator.",
   "scripts": {
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
@@ -14,12 +14,12 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/11ty/eleventy-base-blog.git"
+    "url": "https://github.com/KennethJ-USC/osrs-blog.git"
   },
   "author": {
-    "name": "Zach Leatherman",
-    "email": "zachleatherman@gmail.com",
-    "url": "https://zachleat.com/"
+    "name": "Kenneth Johnson",
+    "email": "kennyaj123@gmail.com",
+    "url": "https://github.com/KennethJ-USC"
   },
   "license": "MIT",
   "bugs": {

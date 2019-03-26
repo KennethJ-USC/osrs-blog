@@ -6,6 +6,13 @@ handlers:
   static_files: www/index.html
   upload: www/index.html
 
+- url: /img
+  static_dir: img
+
+- url: /favicon.ico
+  static_files: www/favicon.ico
+  upload: www/favicon.ico
+
 - url: /css/index.css
   static_files: www/css/index.css
   upload: www/css/index.css
@@ -17,3 +24,4 @@ handlers:
 - url: /(.*)
   static_files: www/\1index.html
   upload: www/(.*)index.html
+
