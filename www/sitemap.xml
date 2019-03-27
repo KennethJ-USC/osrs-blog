@@ -3,22 +3,7 @@
   
   <url>
     <loc>https://myurl.com/posts/firstpost/</loc>
-    <lastmod>2018-05-01</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://myurl.com/posts/secondpost/</loc>
-    <lastmod>2018-07-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://myurl.com/posts/thirdpost/</loc>
-    <lastmod>2018-08-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://myurl.com/about/</loc>
-    <lastmod>2019-03-18</lastmod>
+    <lastmod>2019-03-04</lastmod>
   </url>
   
   <url>
@@ -32,7 +17,7 @@
   </url>
   
   <url>
-    <loc>https://myurl.com/tags/number-2/</loc>
+    <loc>https://myurl.com/tags/Meta/</loc>
     <lastmod>2019-03-18</lastmod>
   </url>
   
@@ -102,7 +87,22 @@
   </url>
   
   <url>
-    <loc>https://myurl.com/</loc>
+    <loc>https://myurl.com/posts/secondpost/</loc>
     <lastmod>2019-03-25</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/about/</loc>
+    <lastmod>2019-03-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/posts/thirdpost/</loc>
+    <lastmod>2019-03-27</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/</loc>
+    <lastmod>2019-03-27</lastmod>
   </url>
 </urlset>

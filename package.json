@@ -9,9 +9,9 @@
     "start": ""
   },
   "dependencies": {
-    "@11ty/eleventy": "^0.7.1"
+    "@11ty/eleventy": "^0.7.1",
+    "debug": "^4.1.1"
   },
-
   "repository": {
     "type": "git",
     "url": "https://github.com/KennethJ-USC/osrs-blog.git"

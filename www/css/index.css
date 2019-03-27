@@ -143,10 +143,20 @@ pre {
 }
 
 .postlist li {
-  margin-top: 90px;
+  margin-top: 26px;
+  float: left
 }
 .postlist li:first-child {
   margin-top: 0px;
+}
+.postlist li:last-child {
+  margin-bottom: 24px;
+}
+
+.archive-link {
+  font-size: 14px;
+  color: var(--darkgray)
+
 }
 .postlist-item {
   counter-increment: start-from -1;
@@ -172,7 +182,6 @@ pre {
 .summary-text {
   color: --var(darkgray);
   font-size: 14px;
-  margin-top: 10px;
 }
 .img-valign {
   vertical-align: middle;
