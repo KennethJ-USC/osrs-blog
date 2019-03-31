@@ -2,7 +2,7 @@
 title: Welcome to The Spicy Stew   
 description: Hello and welcome to the center of mediocre Oldschool Runescape content. We are excited to start producing meta-changing content for the community, so keep checking back while we kick things off. 
 date: 2019-03-04
-image: spicystew-detail.webp
+image: spicystew-detail.png
 tags:
   - Meta
   - Burnt Stew

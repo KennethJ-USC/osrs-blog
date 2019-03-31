@@ -13,6 +13,14 @@ handlers:
   static_files: www/favicon.ico
   upload: www/favicon.ico
 
+- url: /robots.txt
+  static_files: www/robots.txt
+  upload: www/robots.txt
+
+- url: /feed/feed.xml
+  static_files: www/feed/feed.xml
+  upload: www/feed/feed.xml
+
 - url: /css/index.css
   static_files: www/css/index.css
   upload: www/css/index.css
