@@ -133,4 +133,4 @@ Obviously, this is just an example and every case is different, but it serves a 
 
 We just skimmed the surface in Chapter 1; there is much more rigorous content to come. The goal today was not to provide ground breaking information, but more to state the obvious and to provide the cognitive foundation needed to tackle the nuance of the issue later in the series. 
 
-We now have a jumping off point to consider arguments like: "is jerking off and playing Runescape for efficient than pursuing a relationship and being 10% happier?" For that question - and many - stay tuned!
+We now have a jumping off point to consider arguments like: "is jerking off and playing Runescape more efficient than pursuing a relationship and being 10% happier?" For that question - and many - stay tuned!

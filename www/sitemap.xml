@@ -105,4 +105,9 @@
     <loc>https://myurl.com/</loc>
     <lastmod>2019-03-29</lastmod>
   </url>
+  
+  <url>
+    <loc>https://myurl.com/posts/riots00/</loc>
+    <lastmod>2019-04-01</lastmod>
+  </url>
 </urlset>
