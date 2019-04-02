@@ -142,13 +142,13 @@ There are 10 guards in Falador, with an average respawn time of 20 seconds (I di
 >
 > ### Conclusion
 >
-> Reading back through this, I realize I never really had a point or drew any conclusions. But you know what? I had fun writing this, and I hope you had reading it. Runescape has a really quirky history and an unrivaled capacity for nostalgia, and hopefully this served as a reminder of those things. 
+> Reading back through this, I realize I never really had a point or drew any conclusions. But you know what? I had fun writing this, and I hope you had fun reading it. Runescape has a really quirky history and an unrivaled capacity for nostalgia, and hopefully this serves as a reminder of a small few of those things. 
 >
-> Runescape protests are dubiously effective. Mod Emilee once claimed:
+> That all being said, Runescape protests are dubiously effective. Mod Emilee once claimed:
 >
 > "Rioting" is non-constructive & gets ignored, but [it is not] not against the rules. Spamming or being offensive at a riot would be, though."
 >
-> Laaaaame. I refuse to believe that when thousands of your dedicated players throw down their karambwans and bank their void to grab a cannon and a pink robe top that you don't take notice. I'm sure Dr. Gillion would agree, the voice of change sounds like: 
+> Laaaaame. I refuse to believe that you don't notice when thousands of your dedicated players throw down their karambwans and bank their void to grab a cannon and a pink robe top. I'm sure Dr. Gillion would agree, the voice of change sounds like: 
 >
 > **"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"**
 >
